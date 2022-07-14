@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1652715162 "/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex" "/Users/vaishakkrishna/Documents/Resume/Style1/resume.pdf" "resume" 1657741780
-  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.aux" 1652715163 1438 9518baf7685a3d438aad40856715cbe7 ""
-  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex" 1652715041 9845 d605ad0078cb22753a005cfca205c39f ""
+["pdflatex"] 1657816938 "/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex" "/Users/vaishakkrishna/Documents/Resume/Style1/resume.pdf" "resume" 1657816971
+  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.aux" 1657816939 1438 9518baf7685a3d438aad40856715cbe7 ""
+  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex" 1657816971 8574 65759b96f109ec541577e734627e3287 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1585083055 2911 7adff171bd8c0a41152be2ab1520c87f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1585083055 3040 a74211a8f4718d9997628e5616b4ef48 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1585083055 2908 bac006be0510cadf4ac6d59a12fa262a ""
@@ -31,6 +31,7 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1248133631 32587 1788b0c1c5b39540c96f5e42ccd6dae8 ""
@@ -107,13 +108,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1643149741 2724743 02c4db493360e1002b8507be67d9c671 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "resume.aux" 1652715163 1438 9518baf7685a3d438aad40856715cbe7 "pdflatex"
-  "resume.out" 1652715163 720 234422543fc3fc56bbb8ae2e0ff03def "pdflatex"
-  "resume.tex" 1652715041 9845 d605ad0078cb22753a005cfca205c39f ""
+  "resume.aux" 1657816939 1438 9518baf7685a3d438aad40856715cbe7 "pdflatex"
+  "resume.out" 1657816939 720 234422543fc3fc56bbb8ae2e0ff03def "pdflatex"
+  "resume.tex" 1657816971 8574 65759b96f109ec541577e734627e3287 ""
   (generated)
-  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.log"
+  "resume.out"
   "resume.log"
   "resume.pdf"
-  "resume.out"
   "/Users/vaishakkrishna/Documents/Resume/Style1/resume.pdf"
+  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.log"
   "resume.aux"
