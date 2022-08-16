@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1660591064 "/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex" "/Users/vaishakkrishna/Documents/Resume/Style1/resume.pdf" "resume" 1660591068
-  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.aux" 1660591064 1430 b851563f84a1cc8347de1e362a3cb61d ""
-  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex" 1660591068 9634 8c549d5620fc20031658de0c97fec51a ""
+["pdflatex"] 1660601121 "/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex" "/Users/vaishakkrishna/Documents/Resume/Style1/resume.pdf" "resume" 1660601122
+  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.aux" 1660601122 1430 b851563f84a1cc8347de1e362a3cb61d ""
+  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex" 1660601121 9687 788824116a723b8ad377445dd04c80b6 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1585083055 2911 7adff171bd8c0a41152be2ab1520c87f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1585083055 3040 a74211a8f4718d9997628e5616b4ef48 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1585083055 2908 bac006be0510cadf4ac6d59a12fa262a ""
@@ -117,13 +117,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1643149741 2724743 02c4db493360e1002b8507be67d9c671 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "resume.aux" 1660591064 1430 b851563f84a1cc8347de1e362a3cb61d "pdflatex"
-  "resume.out" 1660591064 677 df7c220dfc80cebc9fb18ac79bab3ba8 "pdflatex"
-  "resume.tex" 1660591068 9634 8c549d5620fc20031658de0c97fec51a ""
+  "resume.aux" 1660601122 1430 b851563f84a1cc8347de1e362a3cb61d "pdflatex"
+  "resume.out" 1660601122 677 df7c220dfc80cebc9fb18ac79bab3ba8 "pdflatex"
+  "resume.tex" 1660601121 9687 788824116a723b8ad377445dd04c80b6 ""
   (generated)
-  "resume.out"
-  "resume.pdf"
-  "resume.aux"
-  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.pdf"
-  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.log"
   "resume.log"
+  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.log"
+  "/Users/vaishakkrishna/Documents/Resume/Style1/resume.pdf"
+  "resume.aux"
+  "resume.pdf"
+  "resume.out"
