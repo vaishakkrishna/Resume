@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.25)  4 JAN 2023 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.25)  4 JAN 2023 18:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex
-(/Users/vaishakkrishna/Documents/Resume/Style1/resume.tex
+**/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.tex
+(/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -305,8 +305,8 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
 \mc@col@check@num=\count278
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/Users/vaishakkrishna/Documents/Resume/Style1/resume.aux)
-\openout1 = `resume.aux'.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.aux)
+\openout1 = `Vaishak_Krishna_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
 LaTeX Font Info:    ... okay on input line 117.
@@ -353,9 +353,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 117.
 LaTeX Info: Redefining \pageref on input line 117.
 LaTeX Info: Redefining \nameref on input line 117.
- (/Users/vaishakkrishna/Documents/Resume/Style1/resume.out) (/Users/vaishakkrishna/Documents/Resume/Style1/resume.out)
+ (/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.out) (/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.out)
 \@outlinefile=\write3
-\openout3 = `resume.out'.
+\openout3 = `Vaishak_Krishna_resume.out'.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 127.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
@@ -415,23 +415,23 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/vaishakkrishna/Documents/Resume/Style1/resume.aux)
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `resume.out' has not changed.
+Package rerunfilecheck Info: File `Vaishak_Krishna_resume.out' has not changed.
 (rerunfilecheck)             Checksum: DF7C220DFC80CEBC9FB18AC79BAB3BA8;677.
  ) 
 Here is how much of TeX's memory you used:
  12849 strings out of 478994
- 212094 string characters out of 5858184
- 537566 words of memory out of 5000000
+ 212334 string characters out of 5858184
+ 537646 words of memory out of 5000000
  30157 multiletter control sequences out of 15000+600000
  413114 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,11n,75p,377b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,11n,75p,393b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /Users/vaishakkrishna/Documents/Resume/Style1/resume.pdf (1 page, 137247 bytes).
+Output written on /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf (1 page, 137056 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
