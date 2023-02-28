@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.25)  4 JAN 2023 18:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.25)  28 FEB 2023 12:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -385,26 +385,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 139.
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 205--207
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 206--208
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 213--215
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 214--216
 []  
  []
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 216.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 217.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 216.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 217.
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 222--224
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 223--225
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 231--233
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 232--234
 []  
  []
 
@@ -431,7 +431,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  71i,11n,75p,393b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf (1 page, 137056 bytes).
+Output written on /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf (1 page, 137016 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
