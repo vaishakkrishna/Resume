@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.25)  10 MAR 2023 16:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.25)  10 JUN 2023 18:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -385,26 +385,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 139.
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 202--204
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 212--214
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 210--212
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 220--222
 []  
  []
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 213.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 223.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 213.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 223.
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 219--221
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 229--231
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 228--230
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 237--239
 []  
  []
 
@@ -425,13 +425,13 @@ Package rerunfilecheck Info: File `Vaishak_Krishna_resume.out' has not changed.
 Here is how much of TeX's memory you used:
  12851 strings out of 478994
  212354 string characters out of 5858184
- 536646 words of memory out of 5000000
+ 537646 words of memory out of 5000000
  30158 multiletter control sequences out of 15000+600000
  413114 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,11n,75p,393b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf (1 page, 128442 bytes).
+Output written on /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf (1 page, 128537 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream
