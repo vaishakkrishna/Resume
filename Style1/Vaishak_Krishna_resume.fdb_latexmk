@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1686438000 "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.tex" "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf" "Vaishak_Krishna_resume" 1686438020
-  "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.aux" 1686438001 1542 c89dc831903fcdb5308d9d9d1287a0b8 ""
-  "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.tex" 1686438019 10235 cdb3d607bfd23084609e2b111c4b077f ""
+["pdflatex"] 1690089152 "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.tex" "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf" "Vaishak_Krishna_resume" 1690089153
+  "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.aux" 1690089153 1440 ea75d9a98167eb3b7b6aac760562e9d6 ""
+  "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.tex" 1690089151 10112 4171578089c612b4600132534177bb29 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1585083055 2911 7adff171bd8c0a41152be2ab1520c87f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1585083055 3040 a74211a8f4718d9997628e5616b4ef48 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1585083055 2908 bac006be0510cadf4ac6d59a12fa262a ""
@@ -116,13 +116,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1643149741 2724743 02c4db493360e1002b8507be67d9c671 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "Vaishak_Krishna_resume.aux" 1686438001 1542 c89dc831903fcdb5308d9d9d1287a0b8 "pdflatex"
-  "Vaishak_Krishna_resume.out" 1686438001 795 6e2c46e237f50b4abd987ae4722037d7 "pdflatex"
-  "Vaishak_Krishna_resume.tex" 1686438019 10235 cdb3d607bfd23084609e2b111c4b077f ""
+  "Vaishak_Krishna_resume.aux" 1690089153 1440 ea75d9a98167eb3b7b6aac760562e9d6 "pdflatex"
+  "Vaishak_Krishna_resume.out" 1690089153 727 9bbe6cd54aade5a810119690be35a1d7 "pdflatex"
+  "Vaishak_Krishna_resume.tex" 1690089151 10112 4171578089c612b4600132534177bb29 ""
   (generated)
-  "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf"
-  "Vaishak_Krishna_resume.out"
   "Vaishak_Krishna_resume.pdf"
-  "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.log"
   "Vaishak_Krishna_resume.log"
   "Vaishak_Krishna_resume.aux"
+  "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.log"
+  "/Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf"
+  "Vaishak_Krishna_resume.out"
