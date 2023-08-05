@@ -797,11 +797,6 @@ OUTPUT /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-sc-t1.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
@@ -814,6 +809,11 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/ulasy.fd
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
@@ -869,8 +869,8 @@ INPUT /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb
