@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.25)  5 AUG 2023 13:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.25)  5 AUG 2023 13:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,7 +670,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  71i,11n,75p,393b,903s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf (1 page, 224284 bytes).
+Output written on /Users/vaishakkrishna/Documents/Resume/Style1/Vaishak_Krishna_resume.pdf (1 page, 224283 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
