@@ -26,11 +26,11 @@
 
 
 %----------FONT OPTIONS----------
-% sans-serif
-% \usepackage[sfdefault]{FiraSans}
-% \usepackage[sfdefault]{roboto}
-% \usepackage[sfdefault]{noto-sans}
-% \usepackage[default]{sourcesanspro}
+% % sans-serif
+\usepackage[sfdefault]{FiraSans}
+\usepackage[sfdefault]{roboto}
+\usepackage[sfdefault]{noto-sans}
+\usepackage[default]{sourcesanspro}
 
 % serif
 % \usepackage{CormorantGaramond}
@@ -58,8 +58,8 @@
 
 % Sections formatting
 \titleformat{\section}{
-  \vspace{-4pt}\scshape\raggedright\large\bfseries
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+  \vspace{-4pt}\scshape\raggedright\Large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{0pt}]
 
 % Ensure that generate pdf is machine readable/ATS parsable
 \pdfgentounicode=1
@@ -68,7 +68,7 @@
 % Custom commands
 \newcommand{\resumeItem}[1]{
   \item\small{
-    {#1 \vspace{-2pt}}
+    {#1 \vspace{3pt}}
   }
 }
 
@@ -81,9 +81,10 @@
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
     \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & \textbf{\small #2} \\
+      \vspace{2pt}
+      \textbf{#1} & \textbf{\small #2} \\ 
       \textit{\small#3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-7pt}
+    \end{tabular*}\vspace{-5pt}
 }
 
 \newcommand{\resumeSubSubheading}[2]{
@@ -97,7 +98,7 @@
     \item
     \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
       \small#1 & \textbf{\small #2}\\
-    \end{tabular*}\vspace{-7pt}
+    \end{tabular*}\vspace{-3pt}
 }
 
 \newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
@@ -138,8 +139,8 @@
   {University of California, Berkeley; GPA: 3.9}{Aug. 2020 -- Present}
       {B.A. in Computer Science}{Berkeley, California}
     \vspace{-5pt}
-      \item{Honors: Dean's list, Upsilon Pi Epsilon CS Honor Society}
-
+      \item{Honors: Dean's list, UPE CS Honor Society}
+      \vspace{-5pt}
   \resumeSubHeadingListEnd
   
 %------RELEVANT COURSEWORK-------
@@ -167,36 +168,33 @@
 
 
 %-----------EXPERIENCE-----------
-\section{Development Experience}
+\section{Experience}
   \resumeSubHeadingListStart
 
   \resumeSubheading
-    {XLNC}{May 2023 -- Present}
-    {Software/AI Developer Intern}{Berkeley, CA}
-    \vspace{-4pt}
+    {Software Development Intern @ XLNC}{May 2023 -- Present}{}{}
+    \vspace{-15pt}
     \resumeItemListStart
-      \resumeItem{Engineered a \textbf{persuasion assistant} that leverages \textbf{novel Rasch Guardrails} for user/chatbot evaluation}
-      \resumeItem{Architected and coded an \textbf{end-to-end calibration/assessment system on the cloud}, accessible through API calls}
-      \resumeItem{\textbf{Assembled cloud infrastructure} for ongoing evaluation of LLMs, \textbf{optimizing assessment speed by \textgreater 20x}}
-      \resumeItem{\textbf{Co-Authored} a research paper on the evaluation of \textbf{AI Ethics for LLMs} using a metrology-based approach.  }
+      \resumeItem{\textbf{Engineered} a persuasion assistant that leverages novel Rasch Guardrails for user/chatbot evaluation}
+      \resumeItem{\textbf{Architected} and coded an end-to-end calibration/assessment system on the cloud, accessible through API calls}
+      \resumeItem{\textbf{Assembled} cloud infrastructure for ongoing evaluation of LLMs, optimizing assessment speed by \textgreater 20x}
+      \resumeItem{\textbf{Co-Authored} a research paper on the evaluation of AI Ethics for LLMs using a metrology-based approach.  }
     \resumeItemListEnd
 
     \resumeSubheading
-    {FavorX}{March 2023 -- June 2023}
-    {Backend Developer}{Berkeley, CA}
-    \vspace{-4pt}
+    {Backend Developer @ FavorX}{March 2023 -- June 2023}{}{}
+    \vspace{-15pt}
     \resumeItemListStart
-    \resumeItem{\textbf{Collaborated} with marketing/frontend teams to develop an \textbf{in-app currency system and 3+ new DB schemas}}
-    \resumeItem{Developed/maintained \textbf{RESTful API endpoints} using MongoDB and Express.js for \textbf{scalable infrastructure}}
+    \resumeItem{\textbf{Collaborated} with marketing/frontend teams to develop an in-app currency system and 3+ new DB schemas}
+    \resumeItem{\textbf{Developed/maintained} RESTful API endpoints using MongoDB and Express.js for scalable infrastructure}
 
     \resumeItemListEnd
     \resumeSubheading
-      {QBurst}{June 2021 -- August 2021}
-      {Backend Software Engineer Intern}{Remote}
-      \vspace{-4pt}
+      {Backend Engineer Intern @ QBurst}{June 2021 -- August 2021}{}{}
+      \vspace{-15pt}
       \resumeItemListStart
-      \resumeItem{Used the .NET framework to develop \textbf{RESTful API endpoints} to enable \textbf{efficient data acccess} of customer leads}
-      \resumeItem{\textbf{Worked with other dev teams} to integrate the API into a mobile app and increase ad deployment efficiency}
+      \resumeItem{\textbf{Leveraged} the .NET framework to develop RESTful API endpoints to enable efficient data acccess of customer leads}
+      \resumeItem{\textbf{Teamed with} other developers to integrate the API into a mobile app and increase ad deployment efficiency}
 
       \resumeItemListEnd
   \resumeSubHeadingListEnd
@@ -207,49 +205,51 @@
 \section{Projects}
     \vspace{-5pt}
     \resumeSubHeadingListStart
-
+    % WORDLE SOLVER 
     \resumeProjectHeading
-      {\textbf{Gym Data Visualization} $|$ \href{https://rsf-crowd-data.web.app/}{\underline{https://rsf-crowd-data.web.app/}}\emph{AWS, IPYNB, Firebase}}{October 2022 - December 2022}
-      \resumeItemListStart
-      \resumeItem{Created a serverless web-app with \textbf{97\% positive feedback} from \textbf{\textgreater 200} UC Berkeley students and Berkeley residents}
-      \resumeItem{Coded a \textbf{data pipeline} to collect, transform, and store data from the school gym in a \textbf{cloud database}}
-      \resumeItem{Leveraged \textbf{data visualization tools} to display the \textbf{crowd density} of the \textbf{UC Berkeley} campus gym}
-      \resumeItemListEnd
-
-      \vspace{-13pt}
-      \resumeProjectHeading
           {\textbf{Wordle Solver} $|$ \href{https://wordle-improve.web.app/}{\underline{https://wordle-improve.web.app}} $|$\emph{JavaScript, React, HTML/CSS, AWS}}{May 2022 - September 2022}
           \vspace{-12pt}
           \resumeItemListStart
-          \resumeItem{Coded an information-theory based solver that is \textbf{\boldmath{$97\%$} as good and \textgreater 10x faster} than the most accurate solver}
-          % \resumeItem{Ensured compatibility with \textbf{multiple operating systems and browsers} using various Web APIs}
-          \resumeItem{Coded extra features including a luck-agnostic skill calculator, free-play mode, and solving assistant}
-            \resumeItem{Deployed the web app for \textbf{400+ users} by configuring \textbf{Apache HTTP server} on Linux machines in the \textbf{cloud}}
+          \resumeItem{\textbf{Coded} an information-theory based solver that is \boldmath{$97\%$} as good and \textgreater 10x faster than the most accurate solver}
+          % \resumeItem{\textbf{Ensured} compatibility with multiple operating systems and browsersusing various Web APIs}
+          \resumeItem{\textbf{Shipped} extra features including a luck-agnostic skill calculator, free-play mode, and solving assistant}
+            \resumeItem{\textbf{Deployed} the web app for 400+ users by configuring Apache HTTP serveron Linux machines in the cloud}
             \resumeItemListEnd
           \vspace{-13pt}
+    % GYM DATA VISUALIZATION
+    \resumeProjectHeading
+      {\textbf{Gym Data Visualization} $|$ \href{https://rsf-crowd-data.web.app/}{\underline{https://rsf-crowd-data.web.app/}}\emph{AWS, IPYNB, Firebase}}{October 2022 - December 2022}
+      \resumeItemListStart
+      \resumeItem{\textbf{Created} a serverless web-app with 97\% positive feedback from \textgreater 200 UC Berkeley students and Berkeley residents}
+      \resumeItem{\textbf{Coded} a data pipeline to collect, transform, and store data from the school gym in a cloud database}
+      \resumeItem{\textbf{Leveraged} data visualization tools to display the crowd density of the UC Berkeley campus gym}
+      \resumeItemListEnd
+
+      \vspace{-13pt}
+      
       \resumeSubHeadingListEnd
 
 \vspace{0pt}
 
 
 %%-----------TEACHING EXPERIENCE-----------
-\section{Teaching/Tutoring Experience}
+\section{Teaching Experience}
 \resumeSubHeadingListStart
 
 \resumeSubheading
-{Course Staff, Computer Architecture (UC Berkeley)}{June - August 2023}
-{Tutor}{Berkeley, California}
+{Course Staff, CS61C}{June - August 2023}{}{}
+\vspace{-17pt}
 \resumeItemListStart
-\resumeItem{\textbf{Created course material} and led teaching for exam-prep sessions, \textbf{reaching 40+ students.}}
-  \resumeItem{Hosted 3 sessions weekly, working 1-1 to teach topics including as \textbf{C, processors, parallelism, and virtual memory.}}
+\resumeItem{\textbf{Produce} course material and led teaching for exam-prep sessions, reaching 40+ students.}
+  \resumeItem{\textbf{Hosted} 3 sessions weekly, working 1-1 to teach topics including as C, processors, parallelism, and virtual memory.}
   \resumeItemListEnd
 
 \resumeSubheading
-{Computer Science Mentors (UC Berkeley)}{January - May 2022/2023}
-{Mentor}{Berkeley, California}
+{Mentor @ CSM, UC Berkeley}{January - May 2022/2023}{}{}
+\vspace{-17pt}
 \resumeItemListStart
-  \resumeItem{Scored a \textbf{4.5/5.0 average rating} for teaching \textbf{computer architecture} + \textbf{data structures} concepts to 10+ students}
-  \resumeItem{\textbf{Co-led task forces} to teach ``Git'' and produce review videos, \textbf{increasing student achievement} in the course}
+  \resumeItem{\textbf{Scored} a 4.5/5.0 average ratingfor teaching computer architecture + data structures concepts to 10+ students}
+  \resumeItem{\textbf{Co-led} task forcesto teach ``Git'' and produce review videos, increasing student achievement in the course}
   \resumeItemListEnd
 
 \resumeSubHeadingListEnd
@@ -259,13 +259,11 @@
 \section{Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \item{
-      \textbf{Computer Languages}{: Python, C/C++, JavaScript,Z RISC-V Assembly, Java, HTML/CSS, Go, C\#} \\
+      \textbf{Computer Languages}{: Python, C/C++, JavaScript, RISC-V Assembly, Java, HTML/CSS, Go, C\#} \\
       \vspace{4pt}
       \textbf{Technologies/Frameworks}{: Git/Github, VSCode, MongoDB, Jupyter, Azure, Linux, SQL, ReactJS} \\
       \vspace{4pt}
       \textbf{Developer Tools}{: VS Code, IntelliJ, PyCharm, Eclipse, Visual Studio} \\
-      \vspace{4pt}
-     \textbf{Hobbies}: Bouldering, Poker Theory, Gaming, Speedcubing, Cooking \\
     }
 
  \end{itemize}
