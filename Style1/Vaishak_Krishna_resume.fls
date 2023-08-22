@@ -702,11 +702,6 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlppl.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlppl.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlppl.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlppl.fd
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/mathpazo/zplmb7m.tfm
@@ -719,6 +714,11 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/latex-fonts/lasyb10.tf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlppl.fd
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlppl.fd
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlppl.fd
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlppl.fd
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/palatino/pplrc7t.vf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
